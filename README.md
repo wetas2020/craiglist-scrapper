@@ -3,9 +3,9 @@
 * [ ] Scrape craigslist results
   * [ ] /search/:location/:search_term
     * e.g:
-      * https://columbus.craigslist.org/search/sss?sort=date&query=korg
+      * <https://columbus.craigslist.org/search/sss?sort=date&query=korg>
         * /search/columbus/korg
-      * https://columbus.craigslist.org/search/sss?sort=date&query=synth
+      * <https://columbus.craigslist.org/search/sss?sort=date&query=synth>
         * /search/columbus/synth
 * [ ] Dashboard view
   * [ ] Add search terms (tags)
